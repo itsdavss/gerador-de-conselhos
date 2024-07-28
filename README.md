@@ -4,7 +4,7 @@ Esse foi uma exercício realizado no módulo "Exercícios CSS Avançado - Flexbo
 
 #### Dificuldades e aprendizados
 
-A única dificuldade que eu tive foi que eu não estava utilizando a propriedade "transform-y" no botão, o que dificultou na hora de posicioná-lo.
+A única dificuldade que eu tive foi que eu não estava utilizando a propriedade "transform: translateY(80%);" no botão, o que dificultou na hora de posicioná-lo.
 
 
 #### Design Desktop
