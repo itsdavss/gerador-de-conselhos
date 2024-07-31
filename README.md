@@ -10,5 +10,5 @@ A única dificuldade que eu tive foi que eu não estava utilizando a propriedade
 #### Design Desktop
 ![Design do site](design/design-desktop.png)
 
-#### Design Desktop
+#### Design Mobile
 ![Design do site](design/design-mobile.png)
