@@ -44,7 +44,12 @@ body {
     border-radius: 50%;
     width: 70px;
     height: 70px;
-    transform: translateY(80%);  
+    transform: translateY(80%); 
+    cursor: pointer; 
+}
+
+.botao button:hover{
+    background-color: var(--button-hover-color);
 }
 
 .divisoria i {
