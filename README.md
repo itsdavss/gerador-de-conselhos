@@ -24,7 +24,7 @@ Este site é um gerador de conselhos aleatórios. Toda vez que você clicar no b
 ![Design do site](design/desktop-animation.gif)
 
 #### Design Mobile
-![Design do site](design/design-mobile.png)
+![Design do site](design/mobile-animation.gif)
 
 ## Meu processo
 
