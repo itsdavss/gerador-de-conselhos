@@ -2,6 +2,8 @@
 
 A parte em HTML e CSS foi desenvolvida como um exercício no módulo "Exercícios CSS Avançado - Flexbox", enquanto a implementação em JavaScript foi parte do módulo "Exercícios JavaScript Avançado" do curso Dev Quest - Dev em Dobro
 
+## [Vizualize o projeto clicando aqui](https://itsdavss.github.io/gerador-de-conselhos/) ##
+
 ## Table of contents
 
 - [Visão geral](#visão-geral)
